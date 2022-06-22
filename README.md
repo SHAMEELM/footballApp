@@ -1,3 +1,6 @@
+A website for getting information about various football players, tournaments/leagues and new updates . Used frameworks : React JS, Material UI, REST API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
